@@ -42,8 +42,8 @@
                 <Form.Label>
                     <div class="flex items-center">
                         <Label for="password">Password</Label>
-                        <a href="/" class="ml-auto inline-block text-sm underline">
-                            Forgot your password?
+                        <a href="/login/resrparam/[apple]" class="ml-auto inline-block text-sm underline">
+                            Param page
                         </a>
                     </div>
                 </Form.Label>
